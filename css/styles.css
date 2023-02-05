@@ -1,0 +1,73 @@
+ body {
+        background-color: #F8EAD8;
+        }
+  
+ @font-face {        
+    font-family: Brighter;          
+    font-weight: 400;
+    src: url(../fonts/stay\ winter.otf);
+}
+ 
+@font-face {        
+    font-family: Long Legs;       
+    font-size: large;
+    src: url(../fonts/ShadowsIntoLight.ttf)
+}
+hr {                
+    border-style: inset;   
+    border-color: white;
+    height: 2px;      
+    
+}     
+
+p {
+    font-family: Long Legs ;
+    font-size:small;      
+}
+
+pt {
+    font-family: Long Legs ;
+    font-size: medium;      
+}
+
+pf {
+    font-family: Long Legs ;
+    font-size: medium;         
+}
+
+li {
+    font-family: Long Legs;   
+    font-weight: bold;
+    font-size: medium;                
+}
+td {
+    font-family: Long Legs; 
+    font-weight: bold;
+    font-size: medium;       
+             
+}
+
+h3 {
+    color: black;          
+    font-family: Brighter ;
+    font-size:xx-large
+    font-weight: bold;      
+}
+            h1 {
+                color: #86C8BC;                
+                font-family: cursive;
+                        }
+            h2 {
+                color: #86C8BC;
+                font-family: cursive;
+            }
+            
+
+            h4 {
+                color: black;
+                font-family: Brighter ;   
+                font-weight: bolder; 
+            }
+                        
+            
+            
